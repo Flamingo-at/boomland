@@ -1,6 +1,6 @@
 <h1 align="center">Boomland</h1>
 
-<p align="center">Collecting daily tokens $BGEM from <a href="http://boomland.io/daily">Boomland.io</a></p>
+<p align="center">Claim daily tokens $BGEM from <a href="http://boomland.io/daily">Boomland.io</a></p>
 <p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </p>
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 python boomland.py
 ```
 
-**Wallets that successfully branded tokens will be in** ```successfully.txt``` **in the format** ```{address}:{private_key}:{balance}```
+**Wallets that successfully claim tokens will be in** ```successfully.txt``` **in the format** ```{address}:{private_key}:{balance}```
 
 ## 📧 Contacts
 + Telegram - [@flamingoat](https://t.me/flamingoat)

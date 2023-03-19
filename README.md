@@ -23,7 +23,7 @@ pip install -r requirements.txt
 python boomland.py
 ```
 
-**Wallets that successfully claim tokens will be in** ```successfully.txt``` **in the format** ```{address}:{private_key}:{balance}```
+**Wallets that successfully claim tokens will be in** ```successfully.txt``` **in the format** ```{address}:{private_key}:{balance_matic}```
 
 ## 📧 Contacts
 + Telegram - [@flamingoat](https://t.me/flamingoat)
